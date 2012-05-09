@@ -9,4 +9,4 @@ Just put into
 
 ## Sample screenshot(s)
 
-![Sample Screenshot](http://stuff.imeos.com/persistent/IR_Black.png)
+![Sample Screenshot](http://stuff.imeos.org/persistent/IR_Black.png)
