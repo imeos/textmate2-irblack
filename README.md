@@ -1,6 +1,6 @@
 # IR_Black theme for TextMate 2
 
-A derivate of the famous IR_Black theme for TextMate 2. The background is slightly transparent -- drag one of the sample screenshots to your desktop or elsewhere to see the transparency in action ;-)
+A derivate of the famous IR_Black theme for TextMate 2. The background is slightly transparent – drag one of the sample screenshots to your desktop or elsewhere to see the transparency in action ;-)
 
 ## Installation
 
