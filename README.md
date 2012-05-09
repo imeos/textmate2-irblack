@@ -1,6 +1,6 @@
 # IR_Black theme for TextMate 2
 
-A derivate of the famous IR_Black theme for TextMate 2.
+A derivate of the famous IR_Black theme for TextMate 2. The background is slightly transparent.
 
 ## Installation
 
