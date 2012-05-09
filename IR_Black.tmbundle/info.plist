@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>puevf@vzrbf.pbz</string>
+	<key>contactName</key>
+	<string>Chris Seelus</string>
+	<key>description</key>
+	<string>IR_Black theme for TextMate 2
+
+http://www.imeos.com
+</string>
+	<key>name</key>
+	<string>IR_Black</string>
+	<key>uuid</key>
+	<string>5C14F233-E8C7-4955-BAF3-31A482D86D6D</string>
+</dict>
+</plist>
